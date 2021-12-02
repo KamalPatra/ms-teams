@@ -26,6 +26,11 @@ const NavBar = () => {
             Contact Us
           </Link>
         </li>
+        <li>
+          <Link to="/configure" className="links">
+            Configure
+          </Link>
+        </li>
       </ul>
     </StyledNavbar>
   );
